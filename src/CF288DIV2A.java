@@ -5,6 +5,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.HashSet;
 
+//uses set to store the distinct colors
 public class CF288DIV2A {
 
     public static void main(String[] args) throws IOException {
